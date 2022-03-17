@@ -6,3 +6,19 @@
   display: flex;
   flex-direction: row;
 }
+
+.nav-section {
+  width: 10%;
+}
+
+.channels-section {
+  width: 20%;
+}
+
+.container-section {
+  width: 50%;
+}
+
+.users-section {
+  width: 20%;
+}
